@@ -1,6 +1,6 @@
 ---
 title: FreeReads
-publishDate: 2019-10-02 00:00:00
+publishDate: 2024-10-02 00:00:00
 img: /assets/freereads.png
 img_alt: FreeReads Landing Page
 description: |

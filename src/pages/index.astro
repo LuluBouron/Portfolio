@@ -36,8 +36,7 @@ const projects = (await getCollection('work'))
 				>
 					<div class="roles">
 						<Pill><Icon icon="code" size="1.33em" /> Développeuse back-end</Pill>
-						<Pill><Icon icon="microphone-stage" size="1.33em" /> Speaker</Pill>
-						<Pill><Icon icon="hand-heart" size="1.33em" /> Writer</Pill>
+						
 					</div>
 				</Hero>
 
@@ -79,25 +78,9 @@ const projects = (await getCollection('work'))
 				</div>
 			</section>
 
-			<section class="section with-background bg-variant">
-				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Skills</h3>
-					<p>
-						
-					</p>
-				</header>
+			
 
-				<div class="gallery">
-					<Grid variant="small">
-						{
-							['Medium', 'BuzzFeed', 'The Next Web', 'awwwards.', 'TechCrunch'].map((brand) => (
-								<li class="mention-card">
-									<p>{brand}</p>
-								</li>
-							))
-						}
-					</Grid>
-				</div>
+				
 			</section>
 		</main>
 
