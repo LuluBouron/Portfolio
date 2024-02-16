@@ -1,24 +1,27 @@
 ---
-title: O'Flix
-publishDate: 2024-12-02 00:00:00
-img: /assets/oflix.png
-img_alt: OFlix Landing Page
+title: FreeReads
+publishDate: 2019-10-02 00:00:00
+img: /assets/freereads.png
+img_alt: FreeReads Landing Page
 description: |
-  Séries TV et bien plus dans cette application dérivée de Netflix.
+  Application open Source alternative pour GoodReads
 tags:
   - Symfony
-  - Back-Office
-  - Backend
+  - API
 ---
 
 ## Présentation du projet
 
-> 'Le cinéma est un mélange parfait de vérité et de spectable'. *F. Truffaut*
+> 'I do believe something magical can happen when you read a good book.' *J.K Rowling*
 
-O'Flix</a> est un service dérivé de Netflix permettant de voir des vidéos, des séries à la demande.  
+FreeReads est une application open source alternative pour GoodReads, permettant à un utilisateur de partager sa liste de lecture avec d'autres utilisateurs.
+
 
 ### Stack
 
 * Symfony 
-* MySQL
+* PostgreSQL
+* Tailwind UI
+* API Google Books
+* Pipeline CI/CD
 
