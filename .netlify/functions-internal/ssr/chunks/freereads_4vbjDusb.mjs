@@ -1,5 +1,5 @@
 async function getMod() {
-						return import('./h20 copy_KucuaOSZ.mjs');
+						return import('./freereads_K_wdJwWB.mjs');
 					}
 					const collectedLinks = [];
 					const collectedStyles = [];

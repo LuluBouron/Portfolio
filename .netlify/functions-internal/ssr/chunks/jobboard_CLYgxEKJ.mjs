@@ -1,5 +1,5 @@
 async function getMod() {
-						return import('./h20_UO1TCNip.mjs');
+						return import('./jobboard_DsC7yptz.mjs');
 					}
 					const collectedLinks = [];
 					const collectedStyles = [];
