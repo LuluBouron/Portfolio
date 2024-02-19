@@ -1,10 +1,10 @@
-import { c as createAstro, d as createComponent, r as renderTemplate, f as renderComponent, m as maybeRenderHead } from '../astro_DE_oLKV-.mjs';
+import { c as createAstro, d as createComponent, r as renderTemplate, f as renderComponent, m as maybeRenderHead } from '../astro_DCpfEMFm.mjs';
 import 'kleur/colors';
 import 'clsx';
 import 'cssesc';
-import { g as getCollection, $ as $$ContactCTA } from './__Dim1t6aX.mjs';
-import { b as $$Hero, a as $$BaseLayout } from './404_BRa7SVhx.mjs';
-import { $ as $$Grid, a as $$PortfolioPreview } from './index_CBEs_BOf.mjs';
+import { g as getCollection, $ as $$Grid, a as $$PortfolioPreview } from './index_BTszucUg.mjs';
+import { a as $$Hero, b as $$BaseLayout } from './404_BIDYy_rn.mjs';
+import { a as $$ContactCTA } from './about_C_Umhbxm.mjs';
 
 const $$Astro = createAstro();
 const $$Work = createComponent(async ($$result, $$props, $$slots) => {

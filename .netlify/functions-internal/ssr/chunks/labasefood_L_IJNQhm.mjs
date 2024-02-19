@@ -1,5 +1,5 @@
 async function getMod() {
-						return import('./markdown-mystery-tour_Dvf3fzsv.mjs');
+						return import('./labasefood_CMyG2Cnj.mjs');
 					}
 					const collectedLinks = [];
 					const collectedStyles = [];

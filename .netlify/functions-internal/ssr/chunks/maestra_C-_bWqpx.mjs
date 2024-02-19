@@ -1,5 +1,5 @@
 async function getMod() {
-						return import('./bloom-box_XUc43QBs.mjs');
+						return import('./maestra_B4Wh5xrq.mjs');
 					}
 					const collectedLinks = [];
 					const collectedStyles = [];

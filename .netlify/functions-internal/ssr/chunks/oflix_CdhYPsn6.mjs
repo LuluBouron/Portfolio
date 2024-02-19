@@ -1,5 +1,5 @@
 async function getMod() {
-						return import('./duvet-genius_BX4uvqzh.mjs');
+						return import('./oflix_Dyddcq9B.mjs');
 					}
 					const collectedLinks = [];
 					const collectedStyles = [];
