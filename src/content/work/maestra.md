@@ -4,12 +4,11 @@ publishDate: 2024-03-02 00:00:00
 img: /assets/maestra.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Application web qui réportie les différents moyens de contraception
+  Application web qui répértorie les différents moyens de contraception
 tags:
   - Symfony 
   - React
   - Back-Office
-  - Méthode Agile 
 ---
 
 ## Présentation du projet
