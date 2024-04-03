@@ -11,10 +11,14 @@ import Hero from '../components/Hero.astro';
 import Icon from '../components/Icon.astro';
 import Pill from '../components/Pill.astro';
 import PortfolioPreview from '../components/PortfolioPreview.astro';
+import Button from "../components/Button.astro";
+
 
 // Page section components
 import ContactCTA from '../components/ContactCTA.astro';
 import Skills from '../components/Skills.astro';
+
+import SoftSkills from '../components/SoftSkills.astro';
 
 // Content Fetching: List four most recent work projects
 const projects = (await getCollection('work'))
@@ -30,26 +34,39 @@ const projects = (await getCollection('work'))
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
 				<Hero
-					title="Lucile Bouron "
+					title="Lucile B"
 					tagline="Développeuse back-end"
 					align="start"
 				>
 					<div class="roles">
-						<Pill><Icon icon="code" size="1.33em" /> Développeuse back-end</Pill>
+						<Pill><Icon icon="code" size="1.33em" /> PHP </Pill>
+						<Pill><Icon icon="code" size="1.33em" /> Symfony </Pill>
+					
 						
 					</div>
+					<div class="roles">
+						
+						
+						<Pill>
+							<Icon icon="read-cv-logo" size="1.33em"/> 
+							<a href="/assets/CV_LB_2023_FR.pdf" style="text-decoration:none" >Télécharger mon CV </a>
+						</Pill>
+					</div>
+
 				</Hero>
 
 				<img
 					alt="Lucile Bouron photo portrait"
-					width="480"
-					height="620"
-					src="/assets/lulu.png"
+					
+					src="/assets/lulu3.png"
 				/>
 			</header>
 
+			<SoftSkills />
+			
 			<Skills />
 		</div>
+		
 
 		<main class="wrapper stack gap-20 lg:gap-48">
 			<section class="section with-background with-cta">

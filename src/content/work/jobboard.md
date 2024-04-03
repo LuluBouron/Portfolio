@@ -1,6 +1,6 @@
 ---
 title: Job Board
-publishDate: 2019-10-02 00:00:00
+publishDate: 2024-02-02 00:00:00
 img: /assets/jobboard.png
 img_alt: Job Board Landing Page.
 description: |
@@ -11,7 +11,8 @@ tags:
   - Tailwind CSS
 ---
 
-## Présentation du projet
+## Présentation du [projet](https://github.com/LuluBouron/JobBoard)
+
 
 > 'I do believe something magical can happen when you read a good book.' *J.K Rowling*
 

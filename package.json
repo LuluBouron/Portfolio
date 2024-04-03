@@ -13,5 +13,8 @@
     "@astrojs/netlify": "^5.1.2",
     "astro": "^4.3.7",
     "serve": "^14.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.72.0"
   }
 }

@@ -1,6 +1,6 @@
 ---
 title: Web Resume
-publishDate: 2024-02-19 00:00:00
+publishDate: 2024-01-19 00:00:00
 img: /assets/cv.png
 img_alt: Resume Landing Page.
 description: |
@@ -11,7 +11,8 @@ tags:
   - Tailwind CSS
 ---
 
-## Présentation du projet
+## Présentation du [projet](https://github.com/LuluBouron/resume)
+
 
 _Resume_ est une une version "web" de mon CV, en utilisant le standard JsonResume,
 afin de rendre un CV facilement modifiable et maintenable.

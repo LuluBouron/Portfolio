@@ -1,8 +1,8 @@
 ---
 title: Maestra
-publishDate: 2024-03-02 00:00:00
+publishDate: 2023-03-02 00:00:00
 img: /assets/maestra.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Maestra landing page
 description: |
   Application web qui répértorie les différents moyens de contraception
 tags:

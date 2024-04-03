@@ -1,6 +1,6 @@
 ---
 title: LaBase Food
-publishDate: 2024-03-02 00:00:00
+publishDate: 2023-03-02 00:00:00
 img: /assets/labasefood.png
 img_alt: LaBase Food Landing Page
 description: |
